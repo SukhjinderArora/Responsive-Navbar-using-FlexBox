@@ -2,3 +2,5 @@
 Responsive navigation bar using CSS Flexbox
 
 [Codepen Demo](https://codepen.io/Sukhjinder-arora/full/OZGomv)
+
+MIT License
